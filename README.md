@@ -1,5 +1,5 @@
 # ReactJs - simple crud application
-This is simple crud app with data on variable to enable anyone starting to learn react to have an overview. <br>
+This is simple crud app with data  to enable anyone starting to learn react to have an overview of CRUD fundamentals in react <br>
 
 ## Features
 * CRUD (create, read, update, delete) just on one form.
