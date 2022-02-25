@@ -8,7 +8,8 @@ This is simple crud app with data  to enable anyone starting to learn react to h
 [reactJs](https://reactjs.org/) 
 
 ## Screenshot
-![Screenshot from 2022-02-25 22-23-19](https://user-images.githubusercontent.com/81568615/155775763-917e6942-6eb3-4e72-8427-4499ffed5505.png)
+![Screenshot from 2022-02-25 23-08-42](https://user-images.githubusercontent.com/81568615/155792002-d4371926-3352-4c73-88b9-9cede2a69a0e.png)
+
 
 <br> <br>
 ## Setup
